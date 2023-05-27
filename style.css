@@ -1,0 +1,39 @@
+body{
+    background-image: url(https://th.bing.com/th/id/R.7638ee82a30018a73bc443fcd7a8ee1d?rik=0IsgWYjQ61cluA&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fQNQaTlD.jpg&ehk=SrODU%2f5fQO%2fi5CLhWD6yYNEJSENYRQjBEn6iuVS0U8k%3d&risl=&pid=ImgRaw&r=0);
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+#ss{
+    width: 1200px;
+    height: 600px;
+}
+#sun{
+    width: 700;
+    height: 600px;
+}
+.allbutton{
+width: 200px;
+height: 50px;
+border-radius: 100px;
+color: white;
+font-size: 20px;
+border: 0px;
+font-weight: bold;
+}
+#sunbutton{
+background-color: orange;
+}
+.information{
+    font-size: 20px;
+    display: none;
+}
+#mercurybutton{
+    background-color: black;
+}
+#mercury{
+width: 600px;
+}
+#venus{
+background-color: orange;
+}
